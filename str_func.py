@@ -4,6 +4,7 @@ def big_text(value):
 
 
 def big_letters(value):
+    """Заглавные Буквы"""
     print(value.title())
     return
 
