@@ -3,4 +3,9 @@ def big_text(value):
     return
 
 
+def big_letters(value):
+    print(value.title())
+    return
+
+
 
